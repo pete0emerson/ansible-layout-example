@@ -1,0 +1,6 @@
+---
+- name: Install luigi
+  hosts: all
+  connection: local
+  roles:
+    - luigi

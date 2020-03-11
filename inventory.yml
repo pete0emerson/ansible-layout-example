@@ -1,0 +1,6 @@
+all:
+  hosts:
+    localhost:
+environment_development:
+  hosts:
+    localhost:

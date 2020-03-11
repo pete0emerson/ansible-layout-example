@@ -1,0 +1,6 @@
+---
+- name: Install ClamAV
+  hosts: all
+  connection: local
+  roles:
+    - clamav
