@@ -1,2 +1,4 @@
 ---
 config_dir: /dev/etc
+clamav_config_dir: "{{ config_dir }}"
+luigi_config_dir: "{{ config_dir }}"
