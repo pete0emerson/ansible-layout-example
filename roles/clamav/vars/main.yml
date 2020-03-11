@@ -1,3 +1,2 @@
 ---
-config_dir: /etc/clamav
 clamav_config_dir: "{{ config_dir }}"
