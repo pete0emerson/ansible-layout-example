@@ -1,2 +1,2 @@
 ---
-config_dir: /etc/luigi
+luigi_config_dir: /etc/luigi
